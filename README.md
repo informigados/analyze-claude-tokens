@@ -7,8 +7,7 @@
 
 Analyze local Claude session transcripts and generate usage reports.
 
-> ℹ️ **Claude** is an Anthropic product.  
-> This project is an independent local analyzer and is not an official Anthropic repository.
+> ℹ️ **Claude** is an Anthropic product. This project is an independent local analyzer and is not an official Anthropic repository.
 
 ## 🚀 What It Does
 
